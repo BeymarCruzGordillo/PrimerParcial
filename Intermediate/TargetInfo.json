@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PvZ_Defense",
+			"Path": "C:\\Users\\PC\\Documents\\PvZ_Defense\\Source\\PvZ_Defense.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PvZ_DefenseEditor",
+			"Path": "C:\\Users\\PC\\Documents\\PvZ_Defense\\Source\\PvZ_DefenseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

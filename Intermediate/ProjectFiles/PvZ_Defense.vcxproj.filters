@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PvZ_Defense.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{57CF6FCA-6BD6-4179-87FB-F04F883B57AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PvZ_Defense.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PvZ_DefenseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A3D911F5-0BFB-4EB1-A176-2E40359A1FA7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PvZ_Defense">
+      <UniqueIdentifier>{9E0746B1-D16D-4449-B4A7-3753062658BF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PvZ_Defense\Plant.cpp">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Defense\Plant.h">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PvZ_Defense\PvZ_Defense.Build.cs">
+      <Filter>Source\PvZ_Defense</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PvZ_Defense\PvZ_Defense.cpp">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Defense\PvZ_Defense.h">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Defense\PvZ_DefenseGameMode.cpp">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Defense\PvZ_DefenseGameMode.h">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Defense\PvZ_DefensePawn.cpp">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Defense\PvZ_DefensePawn.h">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Defense\PvZ_DefenseProjectile.cpp">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Defense\PvZ_DefenseProjectile.h">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Defense\Zombie.cpp">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Defense\Zombie.h">
+      <Filter>Source\PvZ_Defense</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
